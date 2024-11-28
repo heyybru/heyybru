@@ -4,11 +4,11 @@
 
 ## 📜 About me
 
-- 🎓 **Education** 
+- 🎓 **Education:** 
 I hold a degree in Human Resources Management and have completed an intensive QA bootcamp with [TripleTen](https://tripleten.com/pt-bra/qa/meet/). Throughout the program, I gained expertise in QA practices such as Test Design, Bug Reporting, Manual Testing (Web and API), and SQL, successfully developing and delivering five projects simulating real-world industry scenarios.
 ---
 
-- 🚀 **Transition to QA** 
+- 🚀 **Transition to QA:** 
 My experience in HR and other departments has given me strong analytical, organizational and results-oriented skills, which I now apply directly to the technology area. I played an important role in a previous company as a user and tester during the implementation of a digital hiring platform, carrying out rigorous tests and collaborating with the technology teams to optimize processes, which as a result, automated the flow of the area that was previously one hundred percent manual and reduced the delay time in hiring new candidates, reaching a target of five hundred hires per month. This experience ignited my passion for QA, inspiring me to specialize further and contribute to delivering high-quality tech solutions.
 ---
 
@@ -18,12 +18,15 @@ My experience in HR and other departments has given me strong analytical, organi
   - **Highlighted Projects:** Developed detailed test scenarios and delivered simulated projects based on industry best practices, focusing on validating critical functionalities.
 ---
 
-- 🎯 **Goals**
+- 🎯 **Goals:**
   I am continuously learning to expand my QA skills and contribute to high-quality software delivery. My goal is to combine my experience in organizational processes with my passion for technology, helping companies overcome challenges and innovate effectively.
 
-## 📂 What You'll Find Here
+---
 
-### In this profile, you'll find sample test scenarios, bug documentation and, in the future, automation scripts as I continue my learning journey.
+## 📂 What You'll Find Here
+In this profile, you'll find sample test scenarios, bug documentation and, in the future, automation scripts as I continue my learning journey.
+
+---
 
 ## 💻 My technologies, tools and frameworks
   Github, Git, Visual Studio Code, Postman, Jira, Confluence, PostgreSQL, Discord, Slack, Figma, Devtools, ApiDoc, Swagger, Notion, Obsidian, Gherkin, Mapify
@@ -104,6 +107,8 @@ My experience in HR and other departments has given me strong analytical, organi
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </div>
+
+---
 
 ## 💬 Let's Connect!
 
