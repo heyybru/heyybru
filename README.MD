@@ -1,23 +1,32 @@
-# 👨‍💻 Seja bem-vindo!
+# 👨‍💻 Welcome
 
-### Olá! Eu sou Bruno Souza, profissional de Recursos Humanos e entusiasta da tecnologia. Sou apaixonado por conectar pessoas e tecnologia. Com uma trajetória em Talent Acquisition, Projects e Hiring dentro de RH, estou atualmente em transição para a área de Quality Assurance (QA), onde aplico a visão orientada à qualidade que desenvolvi durante minhas experiências anteriores.
+### Hi! I'm Bruno Souza, a professional passionate about technology and building connections that drive people and businesses forward. My transition into Quality Assurance (QA) was inspired by a desire to ensure technological solutions are delivered with excellence, leveraging my experience in Administration and Human Resources to bring a quality-focused and efficient approach.
 
-## 📜 Sobre Mim
+## 📜 About me
 
-- 🎓 Formação: Graduado em Gestão de Recursos Humanos e atualmente participando do Bootcamp de Quality Assurance da [TripleTen](https://tripleten.com/pt-bra/qa/meet/). O curso, que dura três meses, foca nas práticas de QA e abrange tópicos como Ciclo do Desenvolvimento de Software (SDLC), Tipos de testes, Bug Reports, Front e Back-end, Banco de Dados/SQL, Arquiteturas de Software (REST/JSON), BDD/TDD e mais. Inclui a conclusão e entrega de cinco projetos com base nas melhores práticas do mercado.
+- 🎓 **Education** 
+  I hold a degree in Human Resources Management and have completed an intensive QA bootcamp with [TripleTen](https://tripleten.com/pt-bra/qa/meet/). Throughout the program, I gained expertise in QA practices such as Test Design, Bug Reporting, Manual Testing (Web and API), and SQL, successfully developing and delivering five projects simulating real-world industry scenarios.
+---
 
-- 🛠️ Habilidades em QA: Conhecimento em Pirâmide de Testes, Design e Análise de Testes, Testes Manuais, Testes de API, Testes GUI, Testes Web e Bug Reports.
+- 🚀 **Transition to QA** 
+  My experience in HR and other departments has given me strong analytical, organizational and results-oriented skills, which I now apply directly to the technology area. I played an important role in a previous company as a user and tester during the implementation of a digital hiring platform, carrying out rigorous tests and collaborating with the technology teams to optimize processes, which as a result, automated the flow of the area that was previously one hundred percent manual and reduced the delay time in hiring new candidates, reaching a target of five hundred hires per month. This experience ignited my passion for QA, inspiring me to specialize further and contribute to delivering high-quality tech solutions.
+---
 
-- 🚀 Experiência em Tecnologia e Inovação: Fui uma peça-chave em um projeto de implantação de uma plataforma de Digital Hiring dentro da área de RH, atuando como Key User, Tester e Lead Administrator. Essa experiência foi fundamental para impulsionar a eficiência nos processos de contratação do cliente e contribuiu para o sucesso de outros dois projetos de implementação de sistemas.
+- 🛠️ **Skills and Achievements**
+  - **Functional and Manual Testing:** GUI and API Testing (REST/JSON), Test Design and Analysis, Bug Reporting.
+  - **Tools and Technologies:** Postman, DevTools, Jira, GitHub, PostgreSQL.
+  - **Highlighted Projects:** Developed detailed test scenarios and delivered simulated projects based on industry best practices, focusing on validating critical functionalities.
+---
 
-- 🎯 Objetivo: Aprender continuamente e construir uma base sólida em QA para evoluir na área de tecnologia.
+- 🎯 **Goals**
+  I am continuously learning to expand my QA skills and contribute to high-quality software delivery. My goal is to combine my experience in organizational processes with my passion for technology, helping companies overcome challenges and innovate effectively.
 
-## 📂 O Que Você Vai Encontrar Aqui
+## 📂 What You'll Find Here
 
-### Neste perfil, você encontrará exemplos de cenários de teste, documentação de bugs e, futuramente, scripts de automação enquanto continuo minha jornada de aprendizado.
+### In this profile, you'll find sample test scenarios, bug documentation and, in the future, automation scripts as I continue my learning journey.
 
-## 💻 Minhas tecnologias
-- Github, Git, Visual Studio Code, Postman, Jira, Confluence, PostgreSQL, Discord, Slack, Figma
+## 💻 My technologies, tools and frameworks
+  Github, Git, Visual Studio Code, Postman, Jira, Confluence, PostgreSQL, Discord, Slack, Figma, Devtools, ApiDoc, Swagger, Notion, Obsidian, Gherkin, Mapify
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
@@ -40,9 +49,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
-###
-
-## 🔧 Outras ferramentas
 ![DevTools](https://img.shields.io/badge/DevTools-20232A?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![ApiDoc](https://img.shields.io/badge/ApiDoc-000000?style=for-the-badge&logo=swagger&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
@@ -51,9 +57,8 @@
 ![Gherkin](https://img.shields.io/badge/Gherkin-2088FF?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Mapify](https://img.shields.io/badge/Mapify-5B5B5B?style=for-the-badge&logo=mapbox&logoColor=white)
 
-## 🧠 Próximos estudos
-<div align="left">
-- JavaScript &nbsp; - Python &nbsp; - C# &nbsp; - CSS &nbsp; - HTML &nbsp; - Swift &nbsp; - TypeScript &nbsp; - Cypress &nbsp; - Selenium &nbsp; - Cucumber &nbsp; - Azure DevOps &nbsp; - Docker &nbsp; - AWS &nbsp; - GitLab &nbsp; - .NET &nbsp; - MySQL &nbsp; - Oracle &nbsp; - Django &nbsp; - MongoDB &nbsp; - Jenkins &nbsp; - Kubernetes
+## 🧠 Next studies
+  JavaScript &nbsp; - Python &nbsp; - C# &nbsp; - CSS &nbsp; - HTML &nbsp; - Swift &nbsp; - TypeScript &nbsp; - Cypress &nbsp; - Selenium &nbsp; - Cucumber &nbsp; - Azure DevOps &nbsp; - Docker &nbsp; - AWS &nbsp; - GitLab &nbsp; - .NET &nbsp; - MySQL &nbsp; - Oracle &nbsp; - Django &nbsp; - MongoDB &nbsp; - Jenkins &nbsp; - Kubernetes
 </div>
 
 <div align="left">
@@ -100,9 +105,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </div>
 
-## 💬 Vamos Nos Conectar!
+## 💬 Let's Connect!
 
-Sou apaixonado por aprender e compartilhar conhecimento. Se você também está na área de QA, em transição de carreira, ou apenas curioso sobre o mundo dos testes de software, vamos trocar ideias! 🚀
+I'm passionate about learning and sharing knowledge. If you're also in QA, in a career transition, or just curious about the world of software testing, let's exchange ideas! 🚀
 
 ## 📬 Contato
 <div align="left">
