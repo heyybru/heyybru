@@ -5,11 +5,11 @@
 ## 📜 About me
 
 - 🎓 **Education** 
-  I hold a degree in Human Resources Management and have completed an intensive QA bootcamp with [TripleTen](https://tripleten.com/pt-bra/qa/meet/). Throughout the program, I gained expertise in QA practices such as Test Design, Bug Reporting, Manual Testing (Web and API), and SQL, successfully developing and delivering five projects simulating real-world industry scenarios.
+I hold a degree in Human Resources Management and have completed an intensive QA bootcamp with [TripleTen](https://tripleten.com/pt-bra/qa/meet/). Throughout the program, I gained expertise in QA practices such as Test Design, Bug Reporting, Manual Testing (Web and API), and SQL, successfully developing and delivering five projects simulating real-world industry scenarios.
 ---
 
 - 🚀 **Transition to QA** 
-  My experience in HR and other departments has given me strong analytical, organizational and results-oriented skills, which I now apply directly to the technology area. I played an important role in a previous company as a user and tester during the implementation of a digital hiring platform, carrying out rigorous tests and collaborating with the technology teams to optimize processes, which as a result, automated the flow of the area that was previously one hundred percent manual and reduced the delay time in hiring new candidates, reaching a target of five hundred hires per month. This experience ignited my passion for QA, inspiring me to specialize further and contribute to delivering high-quality tech solutions.
+My experience in HR and other departments has given me strong analytical, organizational and results-oriented skills, which I now apply directly to the technology area. I played an important role in a previous company as a user and tester during the implementation of a digital hiring platform, carrying out rigorous tests and collaborating with the technology teams to optimize processes, which as a result, automated the flow of the area that was previously one hundred percent manual and reduced the delay time in hiring new candidates, reaching a target of five hundred hires per month. This experience ignited my passion for QA, inspiring me to specialize further and contribute to delivering high-quality tech solutions.
 ---
 
 - 🛠️ **Skills and Achievements**
