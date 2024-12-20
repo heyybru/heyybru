@@ -1,34 +1,33 @@
-# 👨‍💻 Welcome
+# 👨‍💻 Bem-vindo
 
-### Hi! I'm Bruno Souza, a professional passionate about technology and building connections that drive people and businesses forward. My transition into Quality Assurance (QA) was inspired by a desire to ensure technological solutions are delivered with excellence, leveraging my experience in Administration and Human Resources to bring a quality-focused and efficient approach.
+### Olá! Sou Bruno Souza, um profissional apaixonado por tecnologia e por construir conexões que impulsionam pessoas e negócios. Minha transição para Quality Assurance (QA) foi inspirada pelo desejo de garantir que soluções tecnológicas sejam entregues com excelência, aproveitando minha experiência em Administração e Recursos Humanos para trazer uma abordagem focada em qualidade e eficiência.
 
-## 📜 About me
+## 📜 Sobre mim
 
-- 🎓 **Education:** 
-I hold a degree in Human Resources Management and have completed an intensive QA bootcamp with [TripleTen](https://tripleten.com/pt-bra/qa/meet/). Throughout the program, I gained expertise in QA practices such as Test Design, Bug Reporting, Manual Testing (Web and API), and SQL, successfully developing and delivering five projects simulating real-world industry scenarios.
+- 🎓 **Formação Acadêmica:** 
+Sou formado em Gestão de Recursos Humanos e concluí um bootcamp intensivo de QA pela [TripleTen](https://tripleten.com/pt-bra/qa/meet/). Durante o programa, adquiri expertise em práticas de QA, como Design de Testes, Relatórios de Bugs, Testes Manuais (Web e API) e SQL, desenvolvendo com sucesso cinco projetos que simularam cenários reais da indústria.
 ---
 
-- 🚀 **Transition to QA:** 
-My experience in HR and other departments has given me strong analytical, organizational and results-oriented skills, which I now apply directly to the technology area. I played an important role in a previous company as a user and tester during the implementation of a digital hiring platform, carrying out rigorous tests and collaborating with the technology teams to optimize processes, which as a result, automated the flow of the area that was previously one hundred percent manual and reduced the delay time in hiring new candidates, reaching a target of five hundred hires per month. This experience ignited my passion for QA, inspiring me to specialize further and contribute to delivering high-quality tech solutions.
+- 🚀 **Transição para QA:** 
+Minha experiência em RH e outros departamentos me proporcionou fortes habilidades analíticas, organizacionais e orientadas para resultados, que agora aplico diretamente na área de tecnologia. Em uma empresa anterior, desempenhei um papel importante como usuário e testador durante a implementação de uma plataforma de contratação digital. Realizei testes rigorosos e colaborei com equipes de tecnologia para otimizar processos, automatizando fluxos anteriormente manuais e reduzindo o tempo de atraso na contratação de novos candidatos. O resultado foi o alcance de uma meta de 500 contratações por mês. Essa experiência despertou minha paixão por QA, inspirando-me a me especializar ainda mais e contribuir para a entrega de soluções tecnológicas de alta qualidade.
 ---
 
-- 🛠️ **Skills and Achievements**
-  - **Functional and Manual Testing:** GUI and API Testing (REST/JSON), Test Design and Analysis, Bug Reporting.
-  - **Tools and Technologies:** Postman, DevTools, Jira, GitHub, PostgreSQL.
-  - **Highlighted Projects:** Developed detailed test scenarios and delivered simulated projects based on industry best practices, focusing on validating critical functionalities.
+- 🛠️ **Habilidades e Conquistas**
+  - **Testes Funcionais e Manuais:** Testes de GUI e API (REST/JSON), Design e Análise de Testes, Relatórios de Bugs.
+  - **Ferramentas e Tecnologias:** Postman, DevTools, Jira, GitHub, PostgreSQL.
+  - **Projetos de Destaque:** Desenvolvi cenários de teste detalhados e entreguei projetos simulados baseados nas melhores práticas da indústria, focando na validação de funcionalidades críticas.
 ---
 
-- 🎯 **Goals:**
-  I am continuously learning to expand my QA skills and contribute to high-quality software delivery. My goal is to combine my experience in organizational processes with my passion for technology, helping companies overcome challenges and innovate effectively.
+- 🎯 **Objetivos:**
+Estou em constante aprendizado para expandir minhas habilidades em QA e contribuir para a entrega de softwares de alta qualidade. Meu objetivo é combinar minha experiência em processos organizacionais com minha paixão por tecnologia, ajudando empresas a superar desafios e inovar de forma eficaz.
+---
+
+## 📂 O que você encontrará aqui
+Neste perfil, você encontrará exemplos de cenários de teste, documentação de bugs e, no futuro, scripts de automação conforme avanço na minha jornada de aprendizado.
 
 ---
 
-## 📂 What You'll Find Here
-In this profile, you'll find sample test scenarios, bug documentation and, in the future, automation scripts as I continue my learning journey.
-
----
-
-## 💻 My technologies, tools and frameworks
+## 💻 Minhas tecnologias, ferramentas e frameworks
   Github, Git, Visual Studio Code, Postman, Jira, Confluence, PostgreSQL, Discord, Slack, Figma, Devtools, ApiDoc, Swagger, Notion, Obsidian, Gherkin, Mapify
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -60,7 +59,7 @@ In this profile, you'll find sample test scenarios, bug documentation and, in th
 ![Gherkin](https://img.shields.io/badge/Gherkin-2088FF?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Mapify](https://img.shields.io/badge/Mapify-5B5B5B?style=for-the-badge&logo=mapbox&logoColor=white)
 
-## 🧠 Next studies
+## 🧠 Próximos estudos
   JavaScript &nbsp; - Python &nbsp; - C# &nbsp; - CSS &nbsp; - HTML &nbsp; - Swift &nbsp; - TypeScript &nbsp; - Cypress &nbsp; - Selenium &nbsp; - Cucumber &nbsp; - Azure DevOps &nbsp; - Docker &nbsp; - AWS &nbsp; - GitLab &nbsp; - .NET &nbsp; - MySQL &nbsp; - Oracle &nbsp; - Django &nbsp; - MongoDB &nbsp; - Jenkins &nbsp; - Kubernetes
 </div>
 
@@ -110,9 +109,9 @@ In this profile, you'll find sample test scenarios, bug documentation and, in th
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Vamos nos conectar!
 
-I'm passionate about learning and sharing knowledge. If you're also in QA, in a career transition, or just curious about the world of software testing, let's exchange ideas! 🚀
+Sou apaixonado por aprender e compartilhar conhecimento. Se você também atua em QA, está em transição de carreira ou apenas tem curiosidade sobre o mundo de testes de software, vamos trocar ideias! 🚀
 
 ## 📬 Contato
 <div align="left">
